@@ -1,4 +1,3 @@
-
 # Welcome to My GitHub Profile! 👋
 
 Hi, I'm Arkaprabha Das ! I'm a passionate Full Stack Developer specializing in the **MERN** stack (MongoDB, Express.js, React, and Node.js). I love creating dynamic and responsive web applications.
@@ -17,10 +16,18 @@ Hi, I'm Arkaprabha Das ! I'm a passionate Full Stack Developer specializing in t
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-4285F4?style=for-the-badge&logo=api&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### Authentication
+![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### DevOps & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
