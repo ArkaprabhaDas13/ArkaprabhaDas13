@@ -79,6 +79,8 @@ Hi, I'm Arkaprabha Das ! I'm a passionate Full Stack Developer specializing in t
 - **MySQL**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 - **Redis**: ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 - **Firebase**: ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+- **Socket.IO**: ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white)
+- **WebRTC**: ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white)
 
 ### Tools and Utilities
 - **Git**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
